@@ -1,4 +1,4 @@
-// C program for Merge Sort
+// C program for Merge Sort #First modification on Document2
 #include <stdio.h>
 #include <stdlib.h>
 
