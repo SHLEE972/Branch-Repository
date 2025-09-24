@@ -1,1 +1,1 @@
-CLI = Command Line Interface
+VCS = Version Control System
